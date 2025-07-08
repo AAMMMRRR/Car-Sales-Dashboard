@@ -1,5 +1,9 @@
 <h1 align="center">Car Sales Dashboard</h1>
 
+## 📊 Power BI Report Preview
+
+![CarSales](https://github.com/user-attachments/assets/ad50b9dc-8ff5-485b-8051-f3b90bac906d)
+
 ## About
 This Power BI dashboard offers an interactive analysis of car sales data, highlighting key metrics such as Average Commission Rate, Average Annual Income, and Average Price ($). It provides insights into sales performance, customer demographics, and dealer statistics.
 
